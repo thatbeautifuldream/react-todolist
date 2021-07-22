@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![preview](https://github.com/thatbeautifuldream/react-todolist/blob/main/preview.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
